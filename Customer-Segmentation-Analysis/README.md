@@ -68,15 +68,24 @@ The dataset includes:
 ## ▶️ How to Run
 
 1. Clone this repository  
-2. Navigate to the `[[notebook/](https://github.com/nikitagaikwad0111/OIBSIP/blob/main/Customer-Segmentation-Analysis/Customer_Segmentation.ipynb)` folder  
-3. Open `[Customer_Segmentation.ipynb](https://github.com/nikitagaikwad0111/OIBSIP/blob/main/Customer-Segmentation-Analysis/ifood_df.csv)` in Jupyter Notebook or VS Code  
-4. Install required libraries:
+
+2. Navigate to the project folder:  
+   [Customer-Segmentation-Analysis](https://github.com/nikitagaikwad0111/OIBSIP/tree/main/Customer-Segmentation-Analysis)
+
+3. Open the notebook:  
+   [Customer_Segmentation.ipynb](https://github.com/nikitagaikwad0111/OIBSIP/blob/main/Customer-Segmentation-Analysis/Customer_Segmentation.ipynb)
+
+4. Dataset used:  
+   [ifood_df.csv](https://github.com/nikitagaikwad0111/OIBSIP/blob/main/Customer-Segmentation-Analysis/ifood_df.csv)
+
+5. Install required libraries:
    - pandas  
    - numpy  
    - matplotlib  
    - seaborn  
    - scikit-learn  
-5. Run all cells to reproduce the analysis and visualizations
+
+6. Run all cells to reproduce the analysis and visualizations  
 
 ---
 
