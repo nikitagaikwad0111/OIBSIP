@@ -65,6 +65,21 @@ The dataset includes:
 
 ---
 
+## ▶️ How to Run
+
+1. Clone this repository  
+2. Navigate to the `[notebook/](https://github.com/nikitagaikwad0111/OIBSIP/blob/main/Customer-Segmentation-Analysis/notebook/Customer_Segmentation.ipynb)` folder  
+3. Open `[Customer_Segmentation.ipynb](https://github.com/nikitagaikwad0111/OIBSIP/blob/main/Customer-Segmentation-Analysis/ifood_df.csv)` in Jupyter Notebook or VS Code  
+4. Install required libraries:
+   - pandas  
+   - numpy  
+   - matplotlib  
+   - seaborn  
+   - scikit-learn  
+5. Run all cells to reproduce the analysis and visualizations
+
+---
+
 ## 📈 Key Insights
 
 * Customers form distinct segments based on income and spending
