@@ -9,9 +9,9 @@ It demonstrates a complete machine learning workflow including data preprocessin
 
 ## 🔗 Project Links
 
-- 📁 Project Folder: [https://github.com/...](https://github.com/nikitagaikwad0111/OIBSIP/tree/main/House-Price-Prediction)
-- 📓 Notebook: https://github.com/...
-- 📊 Dataset: [https://github.com/...](https://github.com/nikitagaikwad0111/OIBSIP/blob/main/House-Price-Prediction/Housing.csv)
+- 📁 Project Folder: [Open Folder](https://github.com/nikitagaikwad0111/OIBSIP/tree/main/House-Price-Prediction)
+- 📓 Notebook: [View Notebook](https://github.com/nikitagaikwad0111/OIBSIP/blob/main/House-Price-Prediction/house_price_prediction.ipynb)
+- 📊 Dataset: [View Dataset](https://github.com/nikitagaikwad0111/OIBSIP/blob/main/House-Price-Prediction/Housing.csv)
 
 ---
 
