@@ -15,14 +15,16 @@ It demonstrates a complete machine learning workflow including data preprocessin
 
 ---
 
-🎯 Objective
-Predict house prices using regression models
-Identify key factors affecting house prices
-Evaluate model performance
+## 🎯 Objective  
+
+- Build a machine learning model to predict house prices  
+- Identify key features influencing property prices  
+- Analyze relationships between housing attributes and price  
+- Evaluate model performance using appropriate metrics  
 
 ---
 
-##  Project Structure
+## 🔍 Project Structure
 
 ```
 House-Price-Prediction/
@@ -34,7 +36,7 @@ House-Price-Prediction/
 
 ---
 
-##  Dataset
+## 📊 Dataset
 
 * The dataset contains **545 observations** and multiple features describing house properties.
 * Key features include:
@@ -48,13 +50,14 @@ House-Price-Prediction/
 
 ---
 
-🛠️ Tools & Technologies
-Python
-Pandas
-NumPy
-Matplotlib
-Seaborn
-Scikit-learn
+## 🛠️ Tools & Technologies  
+
+- Python  
+- Pandas  
+- NumPy  
+- Matplotlib  
+- Seaborn  
+- Scikit-learn
 
 ---
 
@@ -109,7 +112,7 @@ Scikit-learn
 
 ---
 
-##  Key Insights
+## 📈 Key Insights
 
 * Area and bathrooms significantly impact house prices
 * Air conditioning and preferred area increase value
@@ -138,22 +141,6 @@ The model was tested on sample data to compare predicted and actual values, demo
 * Use advanced models (Random Forest, XGBoost)
 * Feature engineering
 * Outlier handling and scaling
-
----
-
-##  Technologies Used
-
-* Python
-* Pandas, NumPy
-* Matplotlib, Seaborn
-* Scikit-learn
-
----
-
-## 🔗 Project Links
-
-- 📓 Notebook: [View Notebook](./house_price_prediction.ipynb)  
-- 📊 Dataset: [Download Dataset](./Housing.csv)
 
 ---
 
