@@ -8,8 +8,8 @@ This project uses K-Means clustering to segment customers based on their income 
 
 ## 🔗 Project Links
 
-* 📁 **Project Folder:** https://github.com/nikitagaikwad0111/OIBSIP/tree/main/Customer-Segmentation-Analysis
-* 📓 **Notebook:** https://github.com/nikitagaikwad0111/OIBSIP/tree/main/Customer-Segmentation-Analysis/notebook
+* 📁 [Project Folder](https://github.com/nikitagaikwad0111/OIBSIP/tree/main/Customer-Segmentation-Analysis)
+* 📓 [Notebook](https://github.com/nikitagaikwad0111/OIBSIP/blob/main/Customer-Segmentation-Analysis/Customer_Segmentation.ipynb)
 * 📊 **Dataset:** https://github.com/nikitagaikwad0111/OIBSIP/tree/main/Customer-Segmentation-Analysis/data
 
 ---
