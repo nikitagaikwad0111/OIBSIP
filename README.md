@@ -47,7 +47,7 @@ Each project demonstrates practical implementation of data analysis and machine 
 * Category-wise app analysis
 * Insights on ratings, installs, and pricing
 
-👉 [View Project](./Unveiling_Android_App_Market)
+👉 [View Project](https://github.com/nikitagaikwad0111/OIBSIP/tree/main/Android-App-Market-Analysis)
 
 ---
 
