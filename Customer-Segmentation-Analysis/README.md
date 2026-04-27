@@ -69,14 +69,11 @@ The dataset includes:
 
 1. Clone this repository  
 
-2. Navigate to the project folder:  
-   [Customer-Segmentation-Analysis](https://github.com/nikitagaikwad0111/OIBSIP/tree/main/Customer-Segmentation-Analysis)
+2. Navigate to the project folder [Customer-Segmentation-Analysis](https://github.com/nikitagaikwad0111/OIBSIP/tree/main/Customer-Segmentation-Analysis)
 
-3. Open the notebook:  
-   [Customer_Segmentation.ipynb](https://github.com/nikitagaikwad0111/OIBSIP/blob/main/Customer-Segmentation-Analysis/Customer_Segmentation.ipynb)
+3. Open the notebook [Customer_Segmentation.ipynb](https://github.com/nikitagaikwad0111/OIBSIP/blob/main/Customer-Segmentation-Analysis/Customer_Segmentation.ipynb)
 
-4. Dataset used:  
-   [ifood_df.csv](https://github.com/nikitagaikwad0111/OIBSIP/blob/main/Customer-Segmentation-Analysis/ifood_df.csv)
+4. Dataset used [ifood_df.csv](https://github.com/nikitagaikwad0111/OIBSIP/blob/main/Customer-Segmentation-Analysis/ifood_df.csv)
 
 5. Install required libraries:
    - pandas  
