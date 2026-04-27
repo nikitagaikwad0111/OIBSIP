@@ -4,6 +4,8 @@
 ## 📌 Overview
 This project performs customer segmentation for an e-commerce dataset using K-Means clustering. The goal is to group customers based on their behavior to enable targeted marketing strategies.
 
+This project demonstrates practical application of unsupervised learning (K-Means clustering) in real-world customer analytics.
+
 ---
 
 ## 🎯 Objective
@@ -38,6 +40,15 @@ The project follows these steps:
 
 ---
 
+## 🤖 Model Details
+
+- Algorithm Used: K-Means Clustering
+- Number of Clusters: 4
+- Feature Scaling: StandardScaler
+- Evaluation Method: Elbow Method
+
+---
+
 ## 📈 Key Visualizations
 - Income vs Spending (Customer Value)
 - Spending vs Recency (Customer Activity)
@@ -48,9 +59,9 @@ The project follows these steps:
 
 ## 📊 Results
 
-The K-Means clustering algorithm successfully segmented customers into 4 distinct groups based on income, spending, recency, and purchase frequency.
+The K-Means clustering model segmented customers into 4 distinct groups based on income, spending behavior, recency, and purchase activity.
 
-These clusters represent different customer behaviors and provide valuable insights for targeted marketing strategies.
+Each cluster represents a unique customer profile, enabling targeted marketing and business decision-making.
 
 ---
 
@@ -109,12 +120,6 @@ Customer_Segmentation/
 
 ## 🚀 Conclusion
 This project demonstrates how clustering techniques can be used to understand customer behavior and support data-driven decision-making in business.
-
----
-
-## 🔗 Project Link
-
-[GitHub Repository](https://github.com/nikitagaikwad0111/OIBSIP)
 
 ---
 
