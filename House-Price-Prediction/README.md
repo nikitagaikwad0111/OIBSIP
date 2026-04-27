@@ -7,10 +7,11 @@ It demonstrates a complete machine learning workflow including data preprocessin
 
 ---
 
-🔗 Project Links
-📁 Project Folder: https://github.com/nikitagaikwad0111/OIBSIP/tree/main/(your-folder-name)
-📓 Notebook: https://github.com/nikitagaikwad0111/OIBSIP/blob/main/(your-folder-name)/(your-notebook-name).ipynb
-📊 Dataset: https://github.com/nikitagaikwad0111/OIBSIP/blob/main/(your-folder-name)/(your-dataset-name).csv
+## 🔗 Project Links
+
+- 📁 Project Folder: https://github.com/...
+- 📓 Notebook: https://github.com/...
+- 📊 Dataset: https://github.com/...
 
 ---
 
