@@ -11,7 +11,7 @@ It demonstrates a complete machine learning workflow including data preprocessin
 
 - 📁 Project Folder: [https://github.com/...](https://github.com/nikitagaikwad0111/OIBSIP/tree/main/House-Price-Prediction)
 - 📓 Notebook: https://github.com/...
-- 📊 Dataset: https://github.com/...
+- 📊 Dataset: [https://github.com/...](https://github.com/nikitagaikwad0111/OIBSIP/blob/main/House-Price-Prediction/Housing.csv)
 
 ---
 
