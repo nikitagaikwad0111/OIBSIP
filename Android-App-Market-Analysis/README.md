@@ -18,7 +18,7 @@ This project analyzes the Google Play Store dataset to uncover trends in app cat
 * 📁 [Project Folder](https://github.com/nikitagaikwad0111/OIBSIP/tree/main/Android-App-Market-Analysis)
 * 📓 [Notebook](https://github.com/nikitagaikwad0111/OIBSIP/blob/main/Android-App-Market-Analysis/android_app_market_analysis.ipynb)
 * 📊 [Dataset (Apps)](https://github.com/nikitagaikwad0111/OIBSIP/blob/main/Android-App-Market-Analysis/apps.csv)
-* 📊 **Dataset (Reviews):** https://github.com/nikitagaikwad0111/OIBSIP/blob/main/Android-App-Market-Analysis/data/user_reviews.csv
+* 📊 [Dataset (Reviews)](https://github.com/nikitagaikwad0111/OIBSIP/blob/main/Android-App-Market-Analysis/user_reviews.csv)
 
 ---
 
