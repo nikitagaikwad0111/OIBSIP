@@ -63,7 +63,7 @@ Each project demonstrates practical implementation of data analysis and machine 
 * Model building and evaluation (R² ≈ 0.65)
 * Visualization of predictions
 
-👉 [View Project](./House-Price-Prediction)
+👉 [View Project](https://github.com/nikitagaikwad0111/OIBSIP/tree/main/House-Price-Prediction)
 
 ---
 
