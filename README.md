@@ -32,7 +32,7 @@ Each project demonstrates practical implementation of data analysis and machine 
 * Applied K-Means clustering
 * Identified customer groups
 
-👉 [View Project](./Customer_Segmentation)
+👉 [View Project](https://github.com/nikitagaikwad0111/OIBSIP/tree/main/Customer-Segmentation-Analysis)
 
 ---
 
