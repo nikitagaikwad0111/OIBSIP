@@ -1,9 +1,23 @@
 #  House Price Prediction using Linear Regression
 
-##  Overview
+## 📌 Overview
 
 This project predicts house prices based on features such as area, number of bedrooms, bathrooms, and amenities using a **Linear Regression model**.
 It demonstrates a complete machine learning workflow including data preprocessing, exploratory data analysis (EDA), model building, and evaluation.
+
+---
+
+🔗 Project Links
+📁 Project Folder: https://github.com/nikitagaikwad0111/OIBSIP/tree/main/(your-folder-name)
+📓 Notebook: https://github.com/nikitagaikwad0111/OIBSIP/blob/main/(your-folder-name)/(your-notebook-name).ipynb
+📊 Dataset: https://github.com/nikitagaikwad0111/OIBSIP/blob/main/(your-folder-name)/(your-dataset-name).csv
+
+---
+
+🎯 Objective
+Predict house prices using regression models
+Identify key factors affecting house prices
+Evaluate model performance
 
 ---
 
@@ -30,6 +44,16 @@ House-Price-Prediction/
 
 📎 Dataset used in this project:  
 👉 [Download Dataset](./Housing.csv)
+
+---
+
+🛠️ Tools & Technologies
+Python
+Pandas
+NumPy
+Matplotlib
+Seaborn
+Scikit-learn
 
 ---
 
